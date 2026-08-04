@@ -4,8 +4,6 @@
 > Spreadsheet Data Management and Basic Charting
 > 3 ชั่วโมง · 20 คะแนน · ฟังก์ชัน 21 ตัวที่ใช้ทำงานจริง
 
-[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
-
 | รายการ | รายละเอียด |
 |---|---|
 | ระยะเวลา | 3 ชั่วโมง (5 กิจกรรม M1-M5) |

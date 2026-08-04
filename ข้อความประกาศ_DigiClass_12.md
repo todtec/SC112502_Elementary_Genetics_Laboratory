@@ -80,7 +80,7 @@ Workbook_12_A.xlsx   ...   Workbook_12_J.xlsx
 ### ลิงก์ส่งงาน
 
 ```
-[ [วางลิงก์ Google Form ตรงนี้](https://forms.gle/bPZEdf4TYkwqfQ5L6) ]
+[https://forms.gle/bPZEdf4TYkwqfQ5L6]
 ```
 
 - ต้องล็อกอินด้วยบัญชี **@kkumail.com** ของตัวเอง

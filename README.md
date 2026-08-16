@@ -10,6 +10,8 @@
 
 
 
+
+
 [Lab 13. Statistical Analysis and Data Presentation in Genetics](lab-13-statistics-and-presentation.md)
 
 [คู่มือปฏิบัติการ 13](lab-13-statistics-and-presentation.md)

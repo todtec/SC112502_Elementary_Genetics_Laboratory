@@ -9,7 +9,7 @@
 [เกณฑ์การประเมิน](เกณฑ์การประเมิน_Rubric_12.pdf)
 
 
-
+---
 
 
 [Lab 13. Statistical Analysis and Data Presentation in Genetics](lab-13-statistics-and-presentation.md)

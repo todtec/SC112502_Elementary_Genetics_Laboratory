@@ -11,7 +11,3 @@
 
 
 [Lab 13. Statistical Analysis and Data Presentation in Genetics](lab-13-statistics-and-presentation.md)
-
-[ตารางสูตร](ใบสูตรสำเร็จรูป_12.pdf)
-
-[เกณฑ์การประเมิน](เกณฑ์การประเมิน_Rubric_12.pdf)

@@ -12,7 +12,7 @@
 ---
 
 
-[Lab 13. Statistical Analysis and Data Presentation in Genetics](lab-13-statistics-and-presentation.md)
+[Lab 13. Statistical Analysis and Data Presentation in Genetics](ข้อความประกาศ_DigiClass_13.md)
 
 [คู่มือปฏิบัติการ 13](lab-13-statistics-and-presentation.md)
 
